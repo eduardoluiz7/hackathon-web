@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.5.1",
+    "@material-ui/icons": "^4.5.1",
+    "leaflet": "^1.5.1",
+    "pigeon-maps": "^0.14.0",
+    "pigeon-marker": "^0.3.4",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-leaflet": "^2.5.0",
+    "react-scripts": "3.2.0",
+    "recharts": "^1.8.5"
   },
   "scripts": {
     "start": "react-scripts start",
